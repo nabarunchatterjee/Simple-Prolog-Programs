@@ -1,4 +1,4 @@
 Simple-Prolog-Programs
 ======================
 
-Simple Prolog written during M.Tech at KGEC
+Simple Prolog programs written during M.Tech at KGEC
